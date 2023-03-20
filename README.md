@@ -1,2 +1,2 @@
 # Penugasan-Teknik-Simulasi
-Tugas 1
+Kumpulan Tugas Teknik Simulasi 
