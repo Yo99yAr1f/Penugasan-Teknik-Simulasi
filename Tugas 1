@@ -1,3 +1,4 @@
+#############################################################
 multiplikative_RNG<-function(a,z0,m,n) {
 
   xj<-matrix(NA,n,3)
